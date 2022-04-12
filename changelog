@@ -1,3 +1,27 @@
+## Version 2.0.16
+#### Release date: 8. April 2022
+- UI enhancements & fixes
+
+## Version 2.0.15
+#### Release date: 6. April 2022
+- The delay after first upload in file request when the interface wasn't showing was removed
+- If adsense banner location isn't filled, the ads space won't be showed
+- Fixed issue when in grid view you tried to move image into another folder
+- Fixed issue when you can't move or delete items via mobile multiselect function
+- You can now open searched file from spotlight in FilePreview mode to access file settings and functions
+
+## Version 2.0.14
+#### Release date: 5. April 2022
+- Added option to set default max team members for new user registrations
+- Added new app settings shortcuts findable by spotlight
+- Now in 2fa set up challenge user is required to confirm his app setup with code
+
+## Version 2.0.13
+#### Release date: 4. April 2022
+- Auto plan synchronization improvements.
+- Fixed issue with thumbnails in grid preview type
+- Fixed issue in mobile spotlight where you trying open searched image
+
 ## Version 2.0.12
 #### Release date: 2. April 2022
 - Added status column to the fixed plan table
