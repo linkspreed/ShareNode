@@ -1,4 +1,4 @@
-# <img align="left" alt="IceCloud" width="300px" src="https://www.sharenode.tk/system/570ef18f-76a5-42e7-8d98-7ea69955695cpng" draggable="false" /> IceCloud ([Click to try 🚀](https://icecloud.cf/))
+# <img align="left" alt="IceCloud" width="40px" src="https://www.sharenode.tk/system/570ef18f-76a5-42e7-8d98-7ea69955695cpng" draggable="false" /> IceCloud ([Click to try 🚀](https://icecloud.cf/))
 
 Sharenode🌿 - the new, super fast ⚡️and intelligent 📚cloud without borders☁️✨
 
