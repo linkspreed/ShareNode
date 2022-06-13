@@ -1,6 +1,6 @@
-# <img align="left" alt="IceCloud" width="300px" src="https://icecloud.cf/system/8168b3dc-239e-430a-adcf-d37f5f018679.png" draggable="false" /> IceCloud ([Click to try 🚀](https://icecloud.cf/))
+# <img align="left" alt="IceCloud" width="300px" src="https://www.sharenode.tk/system/570ef18f-76a5-42e7-8d98-7ea69955695cpng" draggable="false" /> IceCloud ([Click to try 🚀](https://icecloud.cf/))
 
-Sharenode - the new, super fast and intelligent cloud without borders
+Sharenode🌿 - the new, super fast ⚡️and intelligent 📚cloud without borders☁️✨
 
 
 ## **[Changelog 🥶](https://github.com/linkspreed/icecloud/blob/main/changelog.md)** **Check out the full IceCloud changelog**
