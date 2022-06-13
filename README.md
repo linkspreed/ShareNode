@@ -1,10 +1,10 @@
-# <img align="left" alt="IceCloud" width="60px" src="https://www.sharenode.tk/system/570ef18f-76a5-42e7-8d98-7ea69955695cpng" draggable="false" /> IceCloud ([Click to try 🚀](https://icecloud.cf/))
+# <img align="left" alt="IceCloud" width="60px" src="https://www.sharenode.tk/system/570ef18f-76a5-42e7-8d98-7ea69955695cpng" draggable="false" /> ShareNode ([Click to try 🚀](https://sharenode.tk/))
 
 Sharenode🌿 - the new, super fast ⚡️and intelligent 📚cloud without borders☁️✨
 
 
-## **[Changelog 🥶](https://github.com/linkspreed/icecloud/blob/main/changelog.md)** **Check out the full IceCloud changelog**
-## **[Special Works 👨‍💻](https://github.com/linkspreed/icecloud/blob/main/Special_Works.md)** **Take a look at what changes we are doing to IceCloud besides development**
+## **[Changelog 🌱](https://github.com/linkspreed/sharenode/blob/main/changelog.md)** **Check out the full ShareNode changelog**
+## **[Special Works 👨‍💻](https://github.com/linkspreed/sharenode/blob/main/Special_Works.md)** **Take a look at what changes we are doing to ShareNode besides development**
 
 
 <div align="center">
@@ -14,16 +14,16 @@ Sharenode🌿 - the new, super fast ⚡️and intelligent 📚cloud without bord
 # Core Functionalities
 
 ## Meticulously Designed User Interface & User Experience
-In last year of IceCloud evolution with help of our users, we spend a lot of time designing gorgeous looking user interface and seamless user experience with our file management frontend. We advocate simplicity and usability.
+In last year of ShareNode evolution with help of our users, we spend a lot of time designing gorgeous looking user interface and seamless user experience with our file management frontend. We advocate simplicity and usability.
 
 ## Responsive
-Meticulously optimized mobile version of IceCloud, we just love how nice and easy are all components working. Mobile responsive version should be nice and usable as his bigger desktop brother.
+Meticulously optimized mobile version of ShareNode, we just love how nice and easy are all components working. Mobile responsive version should be nice and usable as his bigger desktop brother.
 
 ## Upload Files
-With IceCloud you can upload files up to tens of gigabytes, don’t worry that your big files won’t be uploaded. We support chunk upload and multipart uploads for your storage. All work seamlessly.
+With ShareNode you can upload files up to tens of gigabytes, don’t worry that your big files won’t be uploaded. We support chunk upload and multipart uploads for your storage. All work seamlessly.
 
 ## Folder Upload
-For IceCloud it isn’t any problem to upload a folder with your files. The same folder structure will be recreated in the app.
+For ShareNode it isn’t any problem to upload a folder with your files. The same folder structure will be recreated in the app.
 
 ## Sharing Files
 With our reach sharing functionalities, you can easily just click on your file or folder, and generate a shared link for everyone. Also you can protect your shared files with your password. 
@@ -51,7 +51,7 @@ All important events that occur in your account will be recorded in your notific
 With Storj DCS (Decentralized Cloud Storage) files aren’t stored in centralized data centers — instead, they’re encrypted, split into pieces, and distributed on a global cloud network.
 
 ## Full-Fledged API
-You can integrate IceCloud into your app seamlessly. You can generate authentication tokens in your profile settings. Documentation for API will come soon.
+You can integrate ShareNode into your app seamlessly. You can generate authentication tokens in your profile settings. Documentation for API will come soon.
 
 ## 2-Factor Verification
 Another layer of security to make sure your files are secured. Users can set up 2 factor verification with their favourite authenticator app.
@@ -60,7 +60,7 @@ Another layer of security to make sure your files are secured. Users can set up 
 Log into your app with your social account. Currently we support Google. More is coming soon.
 
 ## Customizable Folder Icons
-Set your favourite emoji to your folder as an icon and make IceCloud more personal for you! If you are an Apple user, you can switch between Apple emojis and Tweemojis from twitter.
+Set your favourite emoji to your folder as an icon and make ShareNode more personal for you! If you are an Apple user, you can switch between Apple emojis and Tweemojis from twitter.
 
 ## Dark Mode
 We support dark mode natively. Users can set dark mode via application, or let Dark/Light mode handle with preferred OS settings.
@@ -75,7 +75,7 @@ You can drag your files or folder to another folder seamlessly
 
 ## More
  
-IceCloud is **free**, **real-time** and with **unlimited** resources 
+ShareNode is **free**, **real-time** and with **unlimited** resources 
 for developers around the world.
 
 Our focus is on **usability** and **security** 
@@ -86,16 +86,16 @@ for our developers, users and anyone who comes into contact with ([Linkspreed �
     is developed properly so that 
     the platform works as well as possible.
 ```
- You can enjoy IceCloud freely and use all features to an unlimited extent.
+ You can enjoy ShareNode freely and use all features to an unlimited extent.
 
 ## 📷 UI
 
 
-### Welcome to IceCloud
-<img align="center" alt="Analytix" width="3000px" src="https://github.com/linkspreed/icecloud/blob/main/screenshots/1.png" draggable="false" />
+### Welcome to ShareNode
+<img align="center" alt="Analytix" width="3000px" src="https://github.com/linkspreed/sharenode/blob/main/Screenshots/1.png" draggable="false" />
 
-### Frozen :)
-<img align="center" alt="Analytix" width="3000px" src="https://github.com/linkspreed/icecloud/blob/main/screenshots/2.png" draggable="false" />
+### Share + Node :)
+<img align="center" alt="Analytix" width="3000px" src="https://github.com/linkspreed/sharenode/blob/main/Screenshots/2.png" draggable="false" />
 
 ### Ready to start?
-<img align="center" alt="Analytix" width="3000px" src="https://github.com/linkspreed/icecloud/blob/main/screenshots/3.png" draggable="false" />
+<img align="center" alt="Analytix" width="3000px" src="https://github.com/linkspreed/sharenode/blob/main/Screenshots/3.png" draggable="false" />
