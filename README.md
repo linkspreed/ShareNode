@@ -1,4 +1,4 @@
-# <img align="left" alt="IceCloud" width="60px" src="https://www.sharenode.tk/system/570ef18f-76a5-42e7-8d98-7ea69955695cpng" draggable="false" /> ShareNode ([Click to try 🚀](https://sharenode.tk/))
+# <img align="left" alt="ShareNode" width="60px" src="https://www.sharenode.tk/system/570ef18f-76a5-42e7-8d98-7ea69955695cpng" draggable="false" /> ShareNode ([Click to try 🚀](https://sharenode.tk/))
 
 Sharenode🌿 - the new, super fast ⚡️and intelligent 📚cloud without borders☁️✨
 
@@ -92,10 +92,10 @@ for our developers, users and anyone who comes into contact with ([Linkspreed �
 
 
 ### Welcome to ShareNode
-<img align="center" alt="Analytix" width="3000px" src="https://github.com/linkspreed/sharenode/blob/main/Screenshots/1.png" draggable="false" />
+<img align="center" alt="ShareNode" width="3000px" src="https://github.com/linkspreed/sharenode/blob/main/Screenshots/1.png" draggable="false" />
 
 ### Share + Node :)
-<img align="center" alt="Analytix" width="3000px" src="https://github.com/linkspreed/sharenode/blob/main/Screenshots/2.png" draggable="false" />
+<img align="center" alt="ShareNode" width="3000px" src="https://github.com/linkspreed/sharenode/blob/main/Screenshots/2.png" draggable="false" />
 
 ### Ready to start?
-<img align="center" alt="Analytix" width="3000px" src="https://github.com/linkspreed/sharenode/blob/main/Screenshots/3.png" draggable="false" />
+<img align="center" alt="ShareNode" width="3000px" src="https://github.com/linkspreed/sharenode/blob/main/Screenshots/3.png" draggable="false" />
