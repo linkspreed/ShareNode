@@ -5,6 +5,7 @@ Sharenode🌿 - the new, super fast ⚡️and intelligent 📚cloud without bord
 
 ## **[Changelog 🌱](https://github.com/linkspreed/sharenode/blob/main/changelog.md)** **Check out the full ShareNode changelog**
 ## **[Special Works 👨‍💻](https://github.com/linkspreed/sharenode/blob/main/Special_Works.md)** **Take a look at what changes we are doing to ShareNode besides development**
+## **[API](https://github.com/linkspreed/ShareNode_API)** **Check out the full ShareNode API**
 
 
 <div align="center">
