@@ -1,4 +1,7 @@
 ### 30.10.2022 (announcement ShareNode)
+- The servers are now ready for the launch of version 2.2.7 for **ShareNode**.
+
+### 30.10.2022 (announcement ShareNode)
 - The code is now ready for the launch of version 2.2.7 for **ShareNode**.
 
 ### 30.10.2022 (announcement ShareNode)
