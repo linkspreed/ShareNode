@@ -1,4 +1,9 @@
 ### 30.10.2022 (announcement ShareNode)
+- The launch of version 2.2.7 of **ShareNode** was successful! 🥳
+- The new update is live now :)
+- https://sharenode.tk 🔗
+
+### 30.10.2022 (announcement ShareNode)
 - We are now starting the launch of v2.2.7.
 
 ### 30.10.2022 (announcement ShareNode)
