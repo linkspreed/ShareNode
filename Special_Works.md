@@ -1,3 +1,6 @@
+### 01.11.2022 (announcement ShareNode)
+- ShareNode is now in beta on Wasabi technology to allow us to further expand our capacity and offer even more storage. ☁️🚀
+
 ### 30.10.2022 (announcement ShareNode)
 - https://github.com/linkspreed/ShareNode/blob/main/changelog.md
 - The entire changelog is now available on Github.
