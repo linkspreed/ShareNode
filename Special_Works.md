@@ -1,3 +1,6 @@
+### 24.04.2023 (announcement ShareNode)
+- 🚀Starting off our creative journey with ShareNode!🌟 Just checking out test runs to make sure everything is A-OK 😎 #ShareNode #testing #tech
+
 ### 01.11.2022 (announcement ShareNode)
 - ShareNode is now in beta on Wasabi technology to allow us to further expand our capacity and offer even more storage. ☁️🚀
 
