@@ -1,4 +1,4 @@
-# <img align="left" alt="ShareNode" width="60px" src="https://www.sharenode.tk/system/570ef18f-76a5-42e7-8d98-7ea69955695cpng" draggable="false" /> ShareNode ([Click to try 🚀](https://sharenode.tk/))
+# <img align="left" alt="ShareNode" width="60px" src="https://www.sharenode.tk/system/548508f9-44c1-499c-a9c1-6daf08c16511.png" draggable="false" /> ShareNode ([Click to try 🚀](https://sharenode.tk/))
 
 Sharenode🌿 - the new, super fast ⚡️and intelligent 📚cloud without borders☁️✨
 
