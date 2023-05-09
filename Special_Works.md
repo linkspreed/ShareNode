@@ -1,3 +1,9 @@
+### 08.05.2023 (announcement ShareNode)
+- 🎉🚀 Exciting news! ShareNode is officially up and running flawlessly! 🙌🏼🎉 Have you had a chance to check out our platform yet? Let us know in the comments below! #ShareNode #Blockchain #InvestmentOpportunities 💰👀
+
+### 08.05.2023 (announcement ShareNode)
+- 🚀👨‍💻👩‍💻 We're putting the finishing touches on ShareNode and getting our cloud storage platform ready! Who's excited to have a secure and reliable place to store all their files? 🤔 #ShareNode #CloudStorage #TechUpdates
+
 ### 24.04.2023 (announcement ShareNode)
 - 🚀Starting off our creative journey with ShareNode!🌟 Just checking out test runs to make sure everything is A-OK 😎 #ShareNode #testing #tech
 
